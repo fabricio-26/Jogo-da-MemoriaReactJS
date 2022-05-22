@@ -11,7 +11,7 @@ Repositório do projeto Jogo da Memória proposto no curso de Desenvolvimento We
 </div>
 
 
-<h3>🎥 Review</h3>
+<h3>🎥 Review </h3>
 
 <img src="https://github.com/fabricio-26/Jogo-da-MemoriaReactJS/blob/main/assets/images/gifReview.gif"></img>
 
